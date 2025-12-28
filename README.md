@@ -1,4 +1,4 @@
-## JurassicPeach 🌱
+## rchams 🌱
 **``Software Engineering Student/ Game Developer``**
 
 <img src="https://media.tenor.com/gWrMfh2cnt8AAAAi/windows-windows-7.gif" width="150px" align="right">
