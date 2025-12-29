@@ -2,7 +2,7 @@
 **``Software Engineering Student/ Game Developer``**
 
 <img src="https://media.tenor.com/gWrMfh2cnt8AAAAi/windows-windows-7.gif" width="150px" align="right">
-I'm an indie software and game developer with a dream of leading a team. For me, coding isn't just about solving problems, but also about connecting, understanding needs, and creating experiences.
+I'm an indie software developer with a dream of leading a team. For me, coding isn't just about solving problems, but also about connecting, understanding needs, and creating experiences.
 
 With a naturally creative mind, I'm constantly creating new projects and adding new features. However, in a world where technology can be a powerful tool, a lack of compassion and care creates barriers, isolates people, and distances us from the true human potential of innovation.
 
