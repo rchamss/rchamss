@@ -1,28 +1,54 @@
-## rchams 🌱
-**``Software Engineering Student/ Game Developer``**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://media.tenor.com/gWrMfh2cnt8AAAAi/windows-windows-7.gif" width="150px" align="right">
-I'm an indie software developer with a dream of leading a team. For me, coding isn't just about solving problems, but also about connecting, understanding needs, and creating experiences.
+###
 
-With a naturally creative mind, I'm constantly creating new projects and adding new features. However, in a world where technology can be a powerful tool, a lack of compassion and care creates barriers, isolates people, and distances us from the true human potential of innovation.
+<br clear="both">
 
-So my focus goes beyond solving problems. **My focus is on people.**
-<br clear="right"/>
----
-![GitHub Followers](https://img.shields.io/github/followers/JurassicPeach?style=plastic&color=blue&label=Followers&logo=github&logoColor=white)
-![Último Commit](https://img.shields.io/github/last-commit/JurassicPeach/JurassicPeach?style=plastic&color=blue&label=🕛%20LastCommit)
-![GitHub Stars](https://img.shields.io/github/stars/JurassicPeach/JurassicPeach?style=plastic&color=blue&label=⭐%20Estrelas)
-<!--
-**JurassicPeach/JurassicPeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=Ol%C3%A1,%20mundo!%20%F0%9F%91%8B&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<p align="left">👨‍💻Estudante de Engenharia de Software de Salvador/BA  </br><br>👽Desenvolvendo aplicações muito legais e provavelmente inúteis </br><br>🤔Atualmente trabalhando nos projetos do [Hollownews](https://github.com/rchamss/hollow-news) com apoio do [curso.dev](curso.dev) e no [baymin](https://github.com/rchamss/baymin) </br></p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=jest" height="35" alt="jest logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
