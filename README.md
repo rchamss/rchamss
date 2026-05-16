@@ -8,7 +8,7 @@
 
 👨‍💻Estudante de Engenharia de Software de Salvador/BA  </br>
 👽Desenvolvendo aplicações muito legais e provavelmente inúteis </br>
-🤔Atualmente trabalhando nos projetos do [Hollownews](https://github.com/rchamss/hollow-news) com apoio do [curso.dev](curso.dev) e no [baymin](https://github.com/rchamss/baymin) </br>
+🤔Atualmente trabalhando nos projetos do [Hollownews](https://github.com/rchamss/hollow-news) com apoio do [curso.dev](curso.dev) e no [gameblog](https://github.com/rchamss/gameblog) </br>
 
 ## Atualmente estudando
 
