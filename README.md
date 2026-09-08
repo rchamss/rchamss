@@ -6,11 +6,11 @@
 
 ## Um pouco sobre mim
 
-👨‍💻Estudante de Engenharia de Software de Salvador/BA  </br>
+👨‍💻Engenheiro de Software de Salvador/BA  </br>
 👽Desenvolvendo aplicações muito legais e provavelmente inúteis </br>
 🤔Atualmente trabalhando nos projetos do [Hollownews](https://github.com/rchamss/hollow-news) com apoio do [curso.dev](curso.dev) e no [gameblog](https://github.com/rchamss/gameblog) </br>
 
-## Atualmente estudando
+## Minha Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
